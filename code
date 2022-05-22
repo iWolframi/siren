@@ -1,0 +1,32 @@
+<!--------------------------------
+
+CODE BY CALNITE ON TOYHOUSE https://toyhou.se/CalsCode/
+YOU HAVE READ AND AGREED TO MY TOU BY USING MY CODES
+
+--------------------------------->
+
+<!----------- BACKGROUND IMAGE - REPLACE # WITH IMG URL -------------->
+<div class="container my-4 pb-5 shadow" style="background:url(https://wallpaperaccess.com/full/1779916.jpg) center; background-size:cover; max-width:500px; color:#666;">
+    <div class="col-sm-10 mx-auto text-center p-4" style="background:#222; border-radius:0 0 10px 10px;">
+        <h1 class="text-uppercase text-center text-#589541">𝒮 𝐼 𝑅 𝐸 𝒩</h1>
+        <hr style="border-top:2px solid #333; margin:1em 40%">
+        
+        <!----------- ICON - REPLACE # WITH IMG URL -------------->
+        <img class="rounded mb-4" style="height:200px" src="https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/49010286_3fC.jpg">
+        
+        <p class="my-0 text-left"><b class="text-uppercase">Name</b><span class="badge pull-right" style="background:#000; color:#333; letter-spacing:1px;">Siren</span></p>
+        <p class="my-0 text-left"><b class="text-uppercase">Age</b><span class="badge pull-right" style="background:#000; color:#333; letter-spacing:1px;">Unknown</span></p>
+        <p class="my-0 text-left"><b class="text-uppercase">Pronoun</b><span class="badge pull-right" style="background:#000; color:#333; letter-spacing:1px;">She/her</span></p>
+        <p class="my-0 text-left"><b class="text-uppercase">Sexuality</b><span class="badge pull-right" style="background:#000; color:#333; letter-spacing:1px;">Pansexual</span></p>
+        <p class="my-0 text-left"><b class="text-uppercase">Relationship</b><span class="badge pull-right" style="background:#000; color:#333; letter-spacing:1px;">N/A</span></p>
+        <br>
+        <p class="text-justify">Siren is a very independent, moody, posessive, introverted canine. She is very defensive of a select few others she loves dearly. In the likely event you upset her by harming or even thinking of harming those she cares about, you'll be in a world of hurt. So don't even try, okay?</p>
+    </div>
+    <!----------- SOCIAL MEDIA -------------->
+    <p class="text-center mt-4">
+        <a href="https://www.furaffinity.net/user/aerovanthe/" class="text-white m-2"><i class="far fa-paw"></i></a>
+        <a href="https://www.deviantart.com/madam-miuri" class="text-white m-2"><i class="fab fa-deviantart"></i></a>
+        <!----------- DO NOT REMOVE CREDIT -------------->
+        <a href="https://toyhou.se/CalsCode" class="text-white m-2" data-toggle="tooltip" title="HTML by Calnite"><i class="far fa-barcode-read"></i></a>
+    </p>
+</div>
